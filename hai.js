@@ -1,0 +1,1 @@
+console.log("this is second folder of js")
